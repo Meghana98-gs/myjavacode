@@ -2,6 +2,7 @@ class Sample
 {
 	public static void main(String[] args)
 	{
+		//this is my java code
 		System.out.println("Hello java");
 	}
 }
